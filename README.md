@@ -6,6 +6,38 @@ I customized the README and updated some codes because of old versions of depend
 
 The Full series of Reinforcement Learning videos (Theoretical section which is provided by PhD students of (QIAU) Qazvin Islamic Azad University and University of Tehran, etc. and reviewing code implementations by me at the end of each episodes) are available on the channel of [Prof. Mohammad Hossein Rezvani](https://youtu.be/fNVL7jBWBZI) YouTube channel.
 
+### Session 1
+  - [Intro to RL Part 1](https://youtu.be/fNVL7jBWBZI)
+
+### Session 2
+  - [Intro to RL Part 2](https://youtu.be/ZpyEizueHkc)
+
+### Session 3
+  - [K-Armed Bandit Part 1](https://youtu.be/uxmAMKUVurw)
+
+### Session 4
+  - [K-Armed Bandit Part 2](https://youtu.be/PbarSr_z-1w)
+
+### Session 5
+  - [MDP Markov Decision Process](https://youtu.be/-MT4mTmtCMU)
+
+### Session 6
+  - [Bellman Equation](https://youtu.be/EOnqNdQ_cU8)
+
+### Session 7
+  - [Dynamic Programming](https://youtu.be/owReeYWd0Qs)
+
+### Session 8
+  - [Monte Carlo Method](https://youtu.be/_vQkmQCsr0g)
+
+### Session 9
+  - [Temporal Diffrence](https://youtu.be/l31buehPwk4)
+
+### Session 10
+  - [Eligibility Trace](https://youtu.be/suXW4civm8o)
+
+
+
 Python replication for Sutton & Barto's book [*Reinforcement Learning: An Introduction (2nd Edition)*](http://incompleteideas.net/book/the-book-2nd.html)
 
 > If you have any confusion about the code or want to report a bug, please open an issue instead of emailing me directly, and unfortunately I do not have exercise answers for the book.
